@@ -1,1 +1,1 @@
-# CS460
+### Project code for CS460: Computer Graphics
